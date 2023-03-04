@@ -78,7 +78,7 @@ function App() {
                         <label className="form-label">Enter today's year</label>
                         <input type="text" className="form-control" onChange={doMetai} value={metai} />
                     </div>
-                        <button type="button" className="btn btn-outline-danger m-4" onClick={addMy}>add</button>
+                        <button type="button" className="btn btn-outline-success m-4" onClick={addMy}>add</button>
                     </div>
             </header>
         </div>
